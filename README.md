@@ -1,1 +1,1 @@
-# puissance-plus
+# C'est un projet de Puissance Plus !
